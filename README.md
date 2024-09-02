@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/anuragdhale](https://www.linkedin.com/in/anuragdhale)
   
-<p> Certified DevOps Engineer with 3.5 years of experience in managing and automating cloud infrastructure and CI/CD pipelines. Proficient in AWS, containerization with Docker and Kubernetes, and infrastructure as code using Terraform. Strong background in version control, continuous integration, and deployment, with additional experience in project management too <p> 
+<p> Certified DevOps Engineer with 3.5 years of experience in managing and automating cloud infrastructure and CI/CD pipelines. Proficient in AWS, containerization with Docker and Kubernetes, and infrastructure as code using Terraform. Strong background in version control, continuous integration, and deployment, with additional experience in project management tools like Confluence and ServiceNow for ticketing and incident management <p> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anuragdhale27&show_icons=true&locale=en&layout=compact" alt="Anuragdhale27" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anuragdhale27&show_icons=true&locale=en" alt="Anuragdhale27" /></p>
